@@ -1,6 +1,6 @@
 <?php
 
-echo "aula de git e GITHUB";
+echo "aula de git e GITHUBg";
 
 
 
